@@ -6,7 +6,7 @@
 
 
 - I am a passonate Data Scientist.
-- 🔭 I’m currently working on Machine Learning Algorithms.
+- 🔭 I’m currently working on a Machine Learning Project.
 - 🌱 I’m currently learning to master Data Analytic skills.
 - 👯 I’m always looking for challenging work opportunities ahead.
 - 🤔 I actively participate in Machine Learning Hackathons. 
