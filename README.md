@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning to master Data Analytic skills.
 - 👯 I’m always looking for challenging work opportunities ahead.
 - 🤔 I actively participate in Machine Learning Hackathons. 
-* *Reach out if you wish to team up for Hackathons*  <a href="https://www.linkedin.com/in/shresth-mishra-00463216b/">LinkedIn</a>
+* *Reach out if you want to team up for Hackathons*  <a href="https://www.linkedin.com/in/shresth-mishra-00463216b/">LinkedIn</a>
 
 
 
