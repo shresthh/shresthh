@@ -25,10 +25,4 @@
 
 -->
 
-### General
 
-* Just trying to learn everyday and get better bit by bit.
-- ⚡ I like jazz and blues. 
-- If you have to ask what jazz is you'll never know.-Louis Armstrong.
-* Love " The Office " Period
-* I wish there was a way to know you're in your good old days before you've actually left them
