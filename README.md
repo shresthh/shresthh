@@ -5,7 +5,7 @@
 
 
 
-- I am a passonate Data Scientist.
+- I am a passionate Data Scientist.
 - 🔭 I’m currently working on a Machine Learning Project.
 - 🌱 I’m currently learning to master Data Analytic skills.
 - 👯 I’m always looking for challenging work opportunities ahead.
